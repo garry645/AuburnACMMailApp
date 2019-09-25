@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Auburn ACM Mail App</string>
+    <string name="email_to_add_or_delete">Email to Add or Delete</string>
+    <string name="add_email">Add Email</string>
+    <string name="delete_email">Delete Email</string>
+    <string name="send_new_email">Send new Email</string>
+    <string name="subject">Subject:</string>
+    <string name="body">Body</string>
+    <string name="send">Send</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="button">Button</string>
+    <string name="sign_in">Sign In</string>
+</resources>

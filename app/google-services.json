@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "705972786795",
+    "firebase_url": "https://auburnacmmailapp.firebaseio.com",
+    "project_id": "auburnacmmailapp",
+    "storage_bucket": "auburnacmmailapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705972786795:android:3f0fd7c9cbde4286e8c32e",
+        "android_client_info": {
+          "package_name": "com.example.auburnacmmailapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705972786795-76tu7ttoe86qrf1m1iusokkvq1gekr3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.auburnacmmailapp",
+            "certificate_hash": "642785cef200eb62ced9c1f687c6baf4f47d274c"
+          }
+        },
+        {
+          "client_id": "705972786795-gjiphm47p4ah0bt2d0avrfkb18prfmfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAopBnT5DMuKteQ1r-P_ceHrIDLv1wCTRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705972786795-gjiphm47p4ah0bt2d0avrfkb18prfmfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
